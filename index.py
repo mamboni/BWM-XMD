@@ -60973,9 +60973,9 @@
 #!/usr/adams
 
 """
-Author             : Sir Ibrahim Adams
-contact            : ibraahadams@gmail.com
-Github             : https://github.com/devibraah
+Author             : KORIR
+contact            : korircrystal6@gmail.com@gmail.com
+Github             : https://github.com/mamboni
 my youtube channel : Youtube.com/@ibrahimaitech
 
 subcribe my youtube Channel to learn ethical Hacking ^_^
